@@ -265,7 +265,7 @@ h4 {
 	}
 	
 	70% {
-		transform: translateX(0px) scale(1.4);
+		transform: translateX(0px) scale(1.2);
 		opacity: 1; 
 	}    
 	
@@ -282,19 +282,19 @@ h4 {
 	}
 	
 	60% {
-		transform: translateX(30px) scale(1.4);
+		transform: translateX(10px) scale(1.2);
 	}
 	
 	70% {
-		transform: scale(0.6);
+		transform: scale(0.8);
 	}
 	
 	80% {
-		transform: scale(1.2)
+		transform: scale(1.1)
 	}
 	
 	90% {
-		transform: scale(0.8);
+		transform: scale(0.9);
 	}
 	
 	100% {
