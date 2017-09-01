@@ -37,16 +37,19 @@ ul.nav  {
 }
 
 .main-nav-links {
-
 	margin-left: 10px;
 }
 
-.main-nav-links#about>a:hover, .main-nav-links#portfolio>a:hover, .main-nav-links#contact>a:hover {
-	background-color: rgba(74, 170, 165, 0.7);
+.main-nav-links#about>a:hover, 
+.main-nav-links#portfolio>a:hover, 
+.main-nav-links#contact>a:hover {
+	background-color: rgba(74, 170, 165, 0.6);
 	color: #fff;
 }
 
-.main-nav-links#about>a, .main-nav-links#portfolio>a, .main-nav-links#contact>a {
+.main-nav-links#about>a, 
+.main-nav-links#portfolio>a, 
+.main-nav-links#contact>a {
 	height: 20px;
 	color: #777777;
 	display: inline;
